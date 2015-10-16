@@ -11,8 +11,6 @@
 [![][travis-badge]][travis-link]
 [![][mit-badge]][mit]
 
-Validate `.vimrc`, `.vim` files with [vimlint](https://github.com/syngan/vim-vimlint).
-
 ## Getting Started
 This plugin requires [fly](https://github.com/bucaran/fly) and Vim.
 

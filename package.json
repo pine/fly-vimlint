@@ -1,10 +1,17 @@
 {
   "name": "fly-vimlint",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Validate `.vimrc`, `.vim` files with `vimlint`.",
-  "keywords": ["fly", "fly-plugin"],
+  "keywords": [
+    "fly",
+    "fly-plugin"
+  ],
   "main": "index.js",
-  "files": ["index.js", "*.md", "LICENSE"],
+  "files": [
+    "index.js",
+    "*.md",
+    "LICENSE"
+  ],
   "scripts": {
     "test": "fly test"
   },

@@ -10,7 +10,7 @@
 [![npm package][npm-ver-link]][npm-pkg-link]
 [![][travis-badge]][travis-link]
 [![][david-badge]][david-link]
-[![][david-dev-badge]][david-link]
+[![][david-dev-badge]][david-dev-link]
 [![][mit-badge]][mit]
 
 

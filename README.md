@@ -17,7 +17,7 @@ $ npm i fly-vimlint -D
 
 ## Usage examples
 
-```
+```js
 export default function* () {
   yield this.source('**/*.vim').vimlint()
 }

@@ -17,7 +17,11 @@ $ npm i fly-vimlint -D
 
 ## Usage examples
 
-TODO
+```
+export default function* () {
+  yield this.source('**/*.vim').vimlint()
+}
+```
 
 ## Additional Notes
 This plugin **doesn't work** on Windows. It works on Linux, Mac OS X, or other *nix OSs.

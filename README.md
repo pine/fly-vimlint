@@ -9,9 +9,9 @@
 [![][fly-badge]][fly]
 [![npm package][npm-ver-link]][npm-pkg-link]
 [![][travis-badge]][travis-link]
+[![][climate-badge]][climate-link]
 [![][david-badge]][david-link]
 [![][david-dev-badge]][david-dev-link]
-[![][mit-badge]][mit]
 
 
 ## Getting Started
@@ -62,3 +62,5 @@ Copyright (c) 2015 Pine Mizune
 [david-badge]:     https://img.shields.io/david/pine613/fly-vimlint.svg?style=flat-square
 [david-dev-link]:  https://david-dm.org/pine613/fly-vimlint#info=devDependencies&view=table
 [david-dev-badge]: https://img.shields.io/david/dev/pine613/fly-vimlint.svg?style=flat-square
+[climate-link]:    https://codeclimate.com/github/pine613/fly-vimlint
+[climate-badge]:   https://img.shields.io/codeclimate/github/pine613/fly-vimlint.svg?style=flat-square

@@ -1,6 +1,6 @@
 {
   "name": "fly-vimlint",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Validate `.vimrc`, `.vim` files with `vimlint`.",
   "keywords": [
     "fly",

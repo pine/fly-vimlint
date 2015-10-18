@@ -17,7 +17,6 @@ module.exports = function () {
           const errors = results.filter(r => r)
           if (errors.length > 0) {
             const msg = errors.length + '/' + files.length + ' files lint failed'
-            console.warn(msg)
             return Promise.reject(msg)
           }
           console.log(files.length + ' files lint free')

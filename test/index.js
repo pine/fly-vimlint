@@ -20,6 +20,7 @@ describe('index', () => {
     fly.vimlint()
       .then(() => done('test should be failed'))
       .catch(err => {
+        console.error(err)
         try {
           expect(err).to.be.a('string')
           expect(err).to.be.string('1/1 files lint failed')

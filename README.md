@@ -25,7 +25,7 @@ $ npm i fly-vimlint -D
 
 ```js
 export default function* () {
-  yield this.source('**/*.vim').vimlint()
+  yield this.source('./**/*.vim').vimlint()
 }
 ```
 

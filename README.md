@@ -50,7 +50,6 @@ Copyright (c) 2015 Pine Mizune
 
 [mit]:             http://opensource.org/licenses/MIT
 [author]:          https://github.com/pine613
-[contributors]:    https://github.com/kashiro/fly-vimlint/graphs/contributors
 [fly]:             https://www.github.com/flyjs/fly
 [fly-badge]:       https://img.shields.io/badge/fly-JS-05B3E1.svg?style=flat-square
 [mit-badge]:       https://img.shields.io/badge/license-MIT-444444.svg?style=flat-square

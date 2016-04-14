@@ -1,4 +1,4 @@
-export function* test() {
+exports.test = function* () {
   yield this.source('./*.js').eslint()
   yield this.source('./test/*.js')
     .mocha({

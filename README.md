@@ -45,8 +45,7 @@ This plugin uses following software to validate `.vim` files. Thank you.
  -  [gulp-vimlint](https://github.com/pine613/gulp-vimlint)
 
 ## License
-MIT License<br />
-Copyright (c) 2015 Pine Mizune
+MIT License
 
 [mit]:             http://opensource.org/licenses/MIT
 [author]:          https://github.com/pine613

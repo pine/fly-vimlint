@@ -27,15 +27,15 @@
   "author": {
     "name": "Pine Mizune",
     "email": "pinemz@gmail.com",
-    "url": "https://github.com/pine613"
+    "url": "https://github.com/pine"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pine613/fly-vimlint"
+    "url": "https://github.com/pine/fly-vimlint"
   },
   "bugs": {
-    "url": "https://github.com/pine613/fly-vimlint/issues"
+    "url": "https://github.com/pine/fly-vimlint/issues"
   },
-  "homepage": "https://github.com/pine613/fly-vimlint",
+  "homepage": "https://github.com/pine/fly-vimlint",
   "license": "MIT"
 }

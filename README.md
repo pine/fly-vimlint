@@ -40,25 +40,25 @@ This plugin uses following software to validate `.vim` files. Thank you.
 
 ## See also
 
- -  [node-vimlint](https://github.com/pine613/node-vimlint)
- -  [grunt-vimlint](https://github.com/pine613/grunt-vimlint)
- -  [gulp-vimlint](https://github.com/pine613/gulp-vimlint)
+ -  [node-vimlint](https://github.com/pine/node-vimlint)
+ -  [grunt-vimlint](https://github.com/pine/grunt-vimlint)
+ -  [gulp-vimlint](https://github.com/pine/gulp-vimlint)
 
 ## License
 MIT License
 
 [mit]:             http://opensource.org/licenses/MIT
-[author]:          https://github.com/pine613
+[author]:          https://github.com/pine
 [fly]:             https://www.github.com/flyjs/fly
 [fly-badge]:       https://img.shields.io/badge/fly-JS-05B3E1.svg?style=flat-square
 [mit-badge]:       https://img.shields.io/badge/license-MIT-444444.svg?style=flat-square
 [npm-pkg-link]:    https://www.npmjs.org/package/fly-vimlint
 [npm-ver-link]:    https://img.shields.io/npm/v/fly-vimlint.svg?style=flat-square
-[travis-link]:     https://travis-ci.org/pine613/fly-vimlint
-[travis-badge]:    http://img.shields.io/travis/pine613/fly-vimlint.svg?style=flat-square
-[david-link]:      https://david-dm.org/pine613/fly-vimlint
-[david-badge]:     https://img.shields.io/david/pine613/fly-vimlint.svg?style=flat-square
-[david-dev-link]:  https://david-dm.org/pine613/fly-vimlint#info=devDependencies&view=table
-[david-dev-badge]: https://img.shields.io/david/dev/pine613/fly-vimlint.svg?style=flat-square
-[climate-link]:    https://codeclimate.com/github/pine613/fly-vimlint
-[climate-badge]:   https://img.shields.io/codeclimate/github/pine613/fly-vimlint.svg?style=flat-square
+[travis-link]:     https://travis-ci.org/pine/fly-vimlint
+[travis-badge]:    http://img.shields.io/travis/pine/fly-vimlint.svg?style=flat-square
+[david-link]:      https://david-dm.org/pine/fly-vimlint
+[david-badge]:     https://img.shields.io/david/pine/fly-vimlint.svg?style=flat-square
+[david-dev-link]:  https://david-dm.org/pine/fly-vimlint#info=devDependencies&view=table
+[david-dev-badge]: https://img.shields.io/david/dev/pine/fly-vimlint.svg?style=flat-square
+[climate-link]:    https://codeclimate.com/github/pine/fly-vimlint
+[climate-badge]:   https://img.shields.io/codeclimate/github/pine/fly-vimlint.svg?style=flat-square

@@ -16,10 +16,10 @@
     "test": "fly test"
   },
   "devDependencies": {
-    "chai": "^3.3.0",
-    "fly": "^1.2.1",
+    "chai": "^4.2.0",
+    "fly": "^3.0.6",
     "fly-eslint": "^1.0.0",
-    "fly-mocha": "^0.4.1"
+    "fly-mocha": "^1.0.2"
   },
   "dependencies": {
     "vimlint": "^0.2.2"

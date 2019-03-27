@@ -15,6 +15,9 @@
 
 
 ## Getting Started
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/pine/fly-vimlint.svg)](https://greenkeeper.io/)
+
 This plugin requires [fly](https://github.com/bucaran/fly) and Vim.
 
 ```sh
